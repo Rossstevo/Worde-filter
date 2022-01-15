@@ -1,4 +1,4 @@
-# Worde-filter
+# Wordle-filter
 
 
 This is a script which helps a user play the game Wordle [https://www.powerlanguage.co.uk/wordle/]
