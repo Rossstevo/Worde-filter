@@ -187,6 +187,6 @@ button {
 
 @media only screen and (max-width: 600px) {
   body {
-    background: lightblue;
+    width: 100vw;
   }
 }
