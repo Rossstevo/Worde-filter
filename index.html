@@ -76,7 +76,7 @@
 
 
     <!-- //---------------results for Grey------------------// -->
-    <div class="grey-box1results">
+    <!-- <div class="grey-box1results">
       <h2>Grey results</h2>
       <p id="demo35"></p>
       <p id="demo34"></p>
@@ -93,11 +93,11 @@
       <p id="demo23"></p>
       <p id="demo22"></p>
       <p id="demo21"></p>
-    </div>
+    </div> -->
 
 
     <!-- //---------------results for Yellow------------------// -->
-    <div class="yellow-box1results">
+    <!-- <div class="yellow-box1results">
       <h2>Yellow results</h2>
       <p id="demo11"></p>
       <p id="demo12"></p>
@@ -109,10 +109,10 @@
       <p id="demo18"></p>
       <p id="demo19"></p>
       <p id="demo20"></p>
-    </div>
+    </div> -->
 
     <!-- //---------------results for Green------------------// -->
-    <div class="green-box1results">
+    <!-- <div class="green-box1results">
       <h2>Green results</h2>
       <p id="demo"></p>
       <p id="demo2"></p>
@@ -124,7 +124,7 @@
       <p id="demo8"></p>
       <p id="demo9"></p>
       <p id="demo10"></p>
-    </div>
+    </div> -->
 
 
 
@@ -262,7 +262,7 @@
       //look for id="demo" and replace it with inputValue
       //document.getElementById("demo").innerHTML = inputValue;
       //look for id= "demo" and replace it with result
-      document.getElementById("demo2").innerHTML = "filter 1: " + result;
+      // document.getElementById("demo2").innerHTML = "filter 1: " + result;
 
 
       // -------------filter for the second green letter-------//
@@ -271,7 +271,7 @@
       var inputValue2 = document.getElementById("input2").value;
       var result2 = filter2(result, inputValue2);
       //document.getElementById("demo3").innerHTML = inputValue2;
-      document.getElementById("demo4").innerHTML = "filter 2: " + result2;
+      // document.getElementById("demo4").innerHTML = "filter 2: " + result2;
 
       // -------------filter for the third green letter-------//
       //filter 3
@@ -279,7 +279,7 @@
       var inputValue3 = document.getElementById("input3").value;
       var result3 = filter3(result2, inputValue3);
       //document.getElementById("demo5").innerHTML = inputValue3;
-      document.getElementById("demo6").innerHTML = "filter 3: " + result3;
+      // document.getElementById("demo6").innerHTML = "filter 3: " + result3;
 
       // -------------filter for the fourth green letter-------//
       //filter 4
@@ -287,7 +287,7 @@
       var inputValue4 = document.getElementById("input4").value;
       var result4 = filter4(result3, inputValue4);
       //document.getElementById("demo7").innerHTML = inputValue4;
-      document.getElementById("demo8").innerHTML = "filter 4: " + result4;
+      // document.getElementById("demo8").innerHTML = "filter 4: " + result4;
 
       // -------------filter for the fourth green letter-------//
       //filter 5
@@ -295,7 +295,7 @@
       var inputValue5 = document.getElementById("input5").value;
       var result5 = filter5(result4, inputValue5);
       //document.getElementById("demo9").innerHTML = inputValue5;
-      document.getElementById("demo10").innerHTML = "filter 5: " + result5;
+      // document.getElementById("demo10").innerHTML = "filter 5: " + result5;
 
 
 
@@ -309,7 +309,7 @@
         return str.includes(yellow1);
       });
       //document.getElementById("demo11").innerHTML = yellow1;
-      document.getElementById("demo12").innerHTML = "filter 6: " + filtered1;
+      // document.getElementById("demo12").innerHTML = "filter 6: " + filtered1;
 
       // -------------filter by yellow letters 2-------//
       //filter 7
@@ -318,7 +318,7 @@
         return str.includes(yellow2);
       });
       //document.getElementById("demo13").innerHTML = yellow2;
-      document.getElementById("demo14").innerHTML = "filter 7: " + filtered2;
+      // document.getElementById("demo14").innerHTML = "filter 7: " + filtered2;
 
       // -------------filter by yellow letters 3-------//
       //filter 8
@@ -327,7 +327,7 @@
         return str.includes(yellow3);
       });
       //document.getElementById("demo15").innerHTML = yellow3;
-      document.getElementById("demo16").innerHTML = "filter 8: " + filtered3;
+      // document.getElementById("demo16").innerHTML = "filter 8: " + filtered3;
 
       // -------------filter by yellow letters 4-------//
       //filter 9
@@ -336,7 +336,7 @@
         return str.includes(yellow4);
       });
       //document.getElementById("demo17").innerHTML = yellow4;
-      document.getElementById("demo18").innerHTML = "filter 9: " + filtered4;
+      // document.getElementById("demo18").innerHTML = "filter 9: " + filtered4;
 
       // -------------filter by known yellow letters 5-------//
       //filter 10 -- TESTING
@@ -345,7 +345,7 @@
         return str.includes(yellow5);
       });
       //document.getElementById("demo19").innerHTML = yellow5;
-      document.getElementById("demo20").innerHTML = "filter 10: " + filtered5;
+      // document.getElementById("demo20").innerHTML = "filter 10: " + filtered5;
 
 
       //-----------------------GREY LETTERS----------------------//
@@ -357,7 +357,7 @@
         return !str.includes(grey1);
       });
       //document.getElementById("demo17").innerHTML = yellow4;
-      document.getElementById("demo21").innerHTML = "filter 11: " + filtered6;
+      // document.getElementById("demo21").innerHTML = "filter 11: " + filtered6;
 
       // -------------filter by Grey letters 2-------//
       //filter 12
@@ -366,7 +366,7 @@
         return !str.includes(grey2);
       });
       //document.getElementById("demo17").innerHTML = yellow4;
-      document.getElementById("demo22").innerHTML = "filter 12: " + filtered7;
+      // document.getElementById("demo22").innerHTML = "filter 12: " + filtered7;
 
       // -------------filter by Grey letters 3-------//
       //filter 13
@@ -375,7 +375,7 @@
         return !str.includes(grey3);
       });
       //document.getElementById("demo17").innerHTML = yellow4;
-      document.getElementById("demo23").innerHTML = "filter 13: " + filtered8;
+      // document.getElementById("demo23").innerHTML = "filter 13: " + filtered8;
 
       // -------------filter by Grey letters 4-------//
       //filter 14
@@ -384,7 +384,7 @@
         return !str.includes(grey4);
       });
       //document.getElementById("demo17").innerHTML = yellow4;
-      document.getElementById("demo24").innerHTML = "filter 14: " + filtered9;
+      // document.getElementById("demo24").innerHTML = "filter 14: " + filtered9;
 
       // -------------filter by Grey letters 5-------//
       //filter 15
@@ -393,7 +393,7 @@
         return !str.includes(grey5);
       });
       //document.getElementById("demo17").innerHTML = yellow4;
-      document.getElementById("demo25").innerHTML = "filter 15: " + filtered10;
+      // document.getElementById("demo25").innerHTML = "filter 15: " + filtered10;
 
       // -------------filter by Grey letters 6-------//
       //filter 16
@@ -402,7 +402,7 @@
         return !str.includes(grey6);
       });
       //document.getElementById("demo17").innerHTML = yellow4;
-      document.getElementById("demo26").innerHTML = "filter 16: " + filtered11;
+      // document.getElementById("demo26").innerHTML = "filter 16: " + filtered11;
 
       // -------------filter by Grey letters 7-------//
       //filter 17
@@ -411,7 +411,7 @@
         return !str.includes(grey7);
       });
       //document.getElementById("demo17").innerHTML = yellow4;
-      document.getElementById("demo27").innerHTML = "filter 17: " + filtered12;
+      // document.getElementById("demo27").innerHTML = "filter 17: " + filtered12;
 
       // -------------filter by Grey letters 8-------//
       //filter 18
