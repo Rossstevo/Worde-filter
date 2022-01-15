@@ -3,6 +3,21 @@
 
 This is a script which helps a user play the game Wordle [https://www.powerlanguage.co.uk/wordle/]
 
+
+
+
+
+![Screen Shot 2022-01-15 at 15 46 11](https://user-images.githubusercontent.com/85199675/149628004-af584938-ac2c-490c-9344-d057a9841413.png)
+
+
+
+
+
+
+
+
+
+
 ## Table of contents
 
 - [Overview](#overview)
