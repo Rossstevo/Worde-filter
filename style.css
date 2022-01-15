@@ -24,7 +24,16 @@ h3 {
 }
 
 .main-title {
-  margin-top: 50px;
+  margin-top: 30px;
+}
+.line {
+  height: 1px;
+  background-color: #787c7e;
+  opacity: 50%;
+  position: relative;
+  margin-top: -18px;
+  width: 400px;
+  text-align: center;
 }
 
 .container {
@@ -48,7 +57,7 @@ h3 {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  margin-top: 200px;
+  margin-top: 80px;
 }
 
 .green-box {
