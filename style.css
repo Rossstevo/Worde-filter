@@ -190,4 +190,68 @@ button {
     width: 100vw;
     background-color: skyblue;
   }
+
+  .green-box {
+    /* text-align: center; */
+    text-align: center;
+    border: 2px solid black;
+    height: 70px;
+    width: 600px;
+    padding: 10px;
+    border-radius: 40px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+  }
+
+  .grey-box {
+    /* text-align: center; */
+    text-align: center;
+    border: 2px solid black;
+    height: 70px;
+    width: 600px;
+    padding: 10px;
+    border-radius: 40px;
+    margin-bottom: 20px;
+  }
+
+  .yellow-box {
+    /* text-align: center; */
+    text-align: center;
+    border: 2px solid black;
+    width: 600px;
+    height: 70px;
+    padding: 10px;
+    border-radius: 40px;
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    font-family: helvetica;
+    text-align: center;
+  }
+
+  h2 {
+    font-family: helvetica;
+    text-align: center;
+  }
+
+  h3 {
+    font-family: helvetica;
+    text-align: center;
+    font-weight: normal;
+    font-size: 18px;
+  }
+
+  .answer-text {
+    color: black;
+  }
+
+
+
+
+
+
+
+
+
 }
