@@ -1,7 +1,7 @@
 # Wordle-filter
 
 
-A web application which helps the user play the game Wordle [https://www.powerlanguage.co.uk/wordle/]
+A web application which helps the user play the game Wordle [https://www.powerlanguage.co.uk/wordle/].
 
 
 Here is a screen shot of my application. 
