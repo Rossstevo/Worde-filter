@@ -6,8 +6,7 @@ A web application which helps the user play the game Wordle [https://www.powerla
 
 Here is a screen shot of my application. 
 
-
-![Screen Shot 2022-01-15 at 15 46 11](https://user-images.githubusercontent.com/85199675/149628004-af584938-ac2c-490c-9344-d057a9841413.png)
+![Screen Shot 2022-01-17 at 09 58 05](https://user-images.githubusercontent.com/85199675/149748343-79687218-7892-47be-9557-0a9abcd256bf.png)
 
 
 
