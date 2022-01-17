@@ -1,10 +1,10 @@
 # Wordle-filter
 
 
-This is a script which helps a user play the game Wordle [https://www.powerlanguage.co.uk/wordle/]
+A web application which helps the user play the game Wordle [https://www.powerlanguage.co.uk/wordle/]
 
 
-
+Here is a screen shot of my application. 
 
 
 ![Screen Shot 2022-01-15 at 15 46 11](https://user-images.githubusercontent.com/85199675/149628004-af584938-ac2c-490c-9344-d057a9841413.png)
@@ -35,7 +35,7 @@ This is a script which helps a user play the game Wordle [https://www.powerlangu
 
 User should be able to:
 
-Enter prompts given by Wordle.com into a script which returns the possible solutions. 
+Enter prompts given by Wordle.com into a website which returns the possible solutions. 
 
 
 ## My process
@@ -54,7 +54,8 @@ I then used a simple process to remove any words which do not fit. Here is the p
 
 ### What I learned
 
-This is my first project using a large data set. I
+This is my first 'ground-up' project using Javascript, HTML and CSS.
+
 
 ### Continued development
 
