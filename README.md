@@ -3,7 +3,7 @@
 
 A web application which helps the user play the game Wordle [https://www.powerlanguage.co.uk/wordle/].
 
-Here's a screen shot of the web application which I intent to solve. 
+Here's a screen shot of Wordle.  
 
 ![Screen Shot 2022-01-17 at 10 02 07](https://user-images.githubusercontent.com/85199675/149749037-fa16b912-fb05-4dd3-a50d-3406e3205eb0.png)
 
