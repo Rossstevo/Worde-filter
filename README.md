@@ -3,12 +3,15 @@
 
 A web application which helps the user play the game Wordle [https://www.powerlanguage.co.uk/wordle/].
 
+Here's a screen shot of the web application which I intent to solve. 
 
-Here is a screen shot of my application. 
-
-![Screen Shot 2022-01-17 at 09 58 05](https://user-images.githubusercontent.com/85199675/149748343-79687218-7892-47be-9557-0a9abcd256bf.png)
+![Screen Shot 2022-01-17 at 10 02 07](https://user-images.githubusercontent.com/85199675/149749037-fa16b912-fb05-4dd3-a50d-3406e3205eb0.png)
 
 
+And this is a screen shot of my application. 
+
+
+![Screen Shot 2022-01-17 at 10 07 37](https://user-images.githubusercontent.com/85199675/149749812-ed639868-1a00-4c4f-85cc-3552d86999d0.png)
 
 
 
