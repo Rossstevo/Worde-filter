@@ -42,17 +42,18 @@ Enter prompts given by Wordle.com into a website which returns the possible solu
 
 ## My process
 
-Firstly I needed a database. I Googled "5 letter word database" to no avail before finally downloading the database from Wordle.[https://www.powerlanguage.co.uk/wordle/]
+Here's my process so far
 
-I then used a simple process to remove any words which do not fit. Here is the process. 
- - filter out any word from teh data base which contains a 'grey' letter. 
- - filter out any word from the database which does not contain a ' yellow letter'
+ - save satabase as array
  - filter our any word from the database which does not have a specific letter at a specific integer (green letter)
- - print remaining words 
- - 
+ - take top word (most likely to be correct becausue of how website chooses the word for the day) and print it
+ - print remaining results.
+ 
 ### Built with
 
 - Javascript
+- HTML
+- CSS
 
 ### What I learned
 
